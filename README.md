@@ -13,5 +13,5 @@ Dia 2/100 2/10/2017
  
  Dia 3/100 3/10/2017
  -Leí sobre la clase BackGroundWorker de .NET para implementar un thread aparte para las operaciones con la base de datos.
-  Estoy aprendiendo a usarlo ya que es mi primera vez utilizando multithreading. Voy a seguir con mi aplicación de WPF por unos
+  Estoy aprendiendo a usarlo ya que es mi primera vez utilizando métodos asincronos. Voy a seguir con mi aplicación de WPF por unos
   dias más antes de empezar a programar la aplicación en Android.
