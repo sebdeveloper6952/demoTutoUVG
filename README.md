@@ -11,7 +11,13 @@ Dia 2/100 2/10/2017
  días leyendo acerca de este tema en Android. Una vez que sepa como realizar la conexión a la base de datos en Android, creo que podré
  pasar al proceso de empezar el proyecto en sí.
  
- Dia 3/100 3/10/2017
+Día 3/100 3/10/2017
  -Leí sobre la clase BackGroundWorker de .NET para implementar un thread aparte para las operaciones con la base de datos.
   Estoy aprendiendo a usarlo ya que es mi primera vez utilizando métodos asincronos. Voy a seguir con mi aplicación de WPF por unos
   dias más antes de empezar a programar la aplicación en Android.
+  
+Día 4/100 4/10/2017
+- Hoy termine el método para insertar un nuevo usuario a la tabla de usuarios, utilizando el BackGroundWorker. Aun estoy trabajando
+  en el método para obtener todos los usuarios y mostrarlos en el ListView. Tengo que aprender más sobre el BackGroundWorker porque
+  tengo la duda si debería tener uno para cada distinta tarea o únicamente uno y reasignar sus propiedades cada vez que quiera hacer
+  una nueva tarea con el. Por el momento estoy utilizando solamente uno.
