@@ -21,3 +21,7 @@ Día 4/100 4/10/2017
   en el método para obtener todos los usuarios y mostrarlos en el ListView. Tengo que aprender más sobre el BackGroundWorker porque
   tengo la duda si debería tener uno para cada distinta tarea o únicamente uno y reasignar sus propiedades cada vez que quiera hacer
   una nueva tarea con el. Por el momento estoy utilizando solamente uno.
+
+Dia 5/100 9/10/2017
+- Hoy creé el proyecto Android. Intenté conectarme a la base de datos como primer paso pero aun no lo he logrado. Seguiré en esto
+  el próximo día.
