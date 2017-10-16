@@ -25,3 +25,9 @@ Día 4/100 4/10/2017
 Dia 5/100 9/10/2017
 - Hoy creé el proyecto Android. Intenté conectarme a la base de datos como primer paso pero aun no lo he logrado. Seguiré en esto
   el próximo día.
+ 
+ Día 6/100 14/10/2017
+ - Conectarse a MySQL utilizando JDBC en Android no fue posible, así que comenzé a leer sobre la utilización de PHP. Estoy viendo un
+   tutorial en el cual se crean scripts de PHP en el servidor, y son los encargados de realizar las operaciones en la base de datos y
+   de enviar los resultados de regreso a la aplicación que solicito los servicios. Continuaré leyendo el tutorial para formarme una
+   buena base y si todo sale bien, comenzaré a desarrollar la aplicación en algunos días.
